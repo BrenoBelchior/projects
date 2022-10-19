@@ -1,2 +1,1 @@
-# projects
-trabalhos da faculdade 
+# sistemaCovid
